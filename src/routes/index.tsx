@@ -9,7 +9,7 @@ const Routes = () => {
     ...DefaultTheme,
     colors: {
       ...DefaultTheme,
-      backgroundColor: Colors.primaryWhite
+      background: Colors.background
     }
   };
 

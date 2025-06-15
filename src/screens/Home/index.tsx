@@ -1,5 +1,7 @@
 import { View, Text, StyleSheet } from 'react-native';
 
+import Colors from '../../global/Colors';
+
 const Home = () => {
   return (
     <View style={styles.container}>
@@ -17,6 +19,7 @@ const styles = StyleSheet.create({
   textWithFont: {
     fontSize: 32,
     fontFamily: 'Lexend-SemiBold',
+    color: Colors.white
   }
 });
 

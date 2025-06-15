@@ -1,12 +1,9 @@
 const Colors = {
-  primaryOrange: '#FF941A',
-  lightOrange: '#FFC380',
-  primaryBlack: '#585666',
-  lightBlack: '#706E7A',
-  primaryWhite: '#FFFFFF',
-  lightWhite: '#FAFAFC',
-  lightGrey: '#E3E3E5',
-  mediumGrey: '#666666'
+  background: '#0E0F13',
+  white: '#FFFFFF',
+  grey: '#6C777E',
+  green: '#06D6A0',
+  red: '#E5383B'
 };
 
 export default Colors;
